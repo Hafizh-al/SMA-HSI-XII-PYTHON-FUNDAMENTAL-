@@ -1,0 +1,39 @@
+# Latihan 1:
+# Ekspresi Biner (Binary): Membutuhkan dua operan. Ini adalah jenis yang paling umum kita temui.
+# Contohnya meliputi: (x + y) , (x > y) , (x == y) .
+# Ekspresi Uner (Unary): Hanya membutuhkan satu operan. Biasanya untuk mengubah nilai variabel
+# itu sendiri atau menegasikan sesuatu. Contohnya meliputi: (x += 1) , (x -= 1) , (not x) .
+
+# Latihan 2:
+# Akan menghasilkan tipe data:
+# boolean
+
+# Latihan 3:
+# (5 + 2) = 7(angka yang di dalm kurung dulu)
+# (8 / 4) = 2.0(angka yang di dalm kurung dulu) 
+# 7 * 3 = 21(lalu perkalian)
+# 21 - 2.0 = 19.0
+# Prediksi output dari kode Python 
+# 19.0 
+
+# Latihan 4:
+# print("Apple" < "Banana") # True, karena 'A' < 'B'
+
+# Latihan 5:
+# Yang salah: poin =+ 50 artinya poin = +50, jadi nilainya jadi 50, bukan ditambah.
+# Seharusnya:
+# python
+# poin += 50
+# atau
+# python
+# poin = poin + 50
+
+# Latihan 6:
+# print(24 * 60 * 60)
+# print(result) # Output: 86400
+
+# Latihan 7:
+# nama = input("Masukkan nama kamu: ")
+# tahun_lahir = int(input("Masukkan tahun lahir kamu: "))
+# umur = 2025 - tahun_lahir
+# print(f"Halo, {nama}! Di tahun 2025, umur kamu sekitar {umur} tahun.")
